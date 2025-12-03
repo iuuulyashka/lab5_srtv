@@ -1,0 +1,15 @@
+﻿  lab5.cpp
+C:\Users\balyb\source\repos\lab5\lab5.cpp(131,18): warning C4566: символ, представленный универсальным именем символа "\u25A0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(131,48): warning C4566: символ, представленный универсальным именем символа "\u25A0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(146,49): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+C:\Users\balyb\source\repos\lab5\lab5.cpp(146,49): warning C4244:         with
+C:\Users\balyb\source\repos\lab5\lab5.cpp(146,49): warning C4244:         [
+C:\Users\balyb\source\repos\lab5\lab5.cpp(146,49): warning C4244:             _Rep=__int64
+C:\Users\balyb\source\repos\lab5\lab5.cpp(146,49): warning C4244:         ]
+C:\Users\balyb\source\repos\lab5\lab5.cpp(177,36): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(178,19): warning C4566: символ, представленный универсальным именем символа "\u274C", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(183,36): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(184,19): warning C4566: символ, представленный универсальным именем символа "\u274C", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(189,36): warning C4566: символ, представленный универсальным именем символа "\u2705", невозможно представить в текущей кодовой странице (1251)
+C:\Users\balyb\source\repos\lab5\lab5.cpp(190,19): warning C4566: символ, представленный универсальным именем символа "\u274C", невозможно представить в текущей кодовой странице (1251)
+  lab5.vcxproj -> C:\Users\balyb\source\repos\lab5\x64\Debug\lab5.exe
